@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Amazon Delivery Services**
 
-- 🌱 I’m currently learning **jl**
+- 🌱 I’m currently learning **Data Science **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kumarkse.vercel.app/](https://portfolio-kumarkse.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **abhishektiwari2100@gmail.com**
 
