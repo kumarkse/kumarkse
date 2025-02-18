@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Abhishek</h1>
 <h3 align="center">Welcome to my Github repository! I am an aspiring artificial intelligence (AI) and data science engineer. In this repository, you will find my projects and code related to AI and data science. To pursue a career in AI and data science, I am focusing on learning programming languages like Python, mathematics, and machine learning concepts. I am also considering higher education or certifications to specialize in these fields.</h3>
 
-- 🔭 I’m currently working on **Amazon Delivery Services**
+- 🔭 Currently working on **AI SHIT**
 
 - 🌱 I’m currently learning **Data Science **
 
